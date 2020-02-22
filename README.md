@@ -8,10 +8,18 @@ Repository with all the content from one of my classes: [Machine Learning Topics
 ### Theoretical Classes
 
 - **Class 01:** Introduction to Machine Learning Concepts
+- **Class 02:** Linear Regression
 
 ### Practical Classes
 
 - **Lab 01:** Python: Basics of NumPy
+- **Lab 02:** Linear Regression.
+    - Univariable Linear Regression
+        - Cost Function
+        - Gradient Descent
+    - Multivariable Linear Regression
+        - Feature Normalization
+
 
 ## Authors
 
